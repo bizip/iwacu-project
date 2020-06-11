@@ -1,0 +1,21 @@
+{
+    "name": "iwacu",
+    "version": "1.0.0",
+    "description": "This app will help people to find house to rent in any location around the word",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "author": "bizimungu pascal",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "ejs": "^3.1.3",
+        "express": "^4.17.1",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
